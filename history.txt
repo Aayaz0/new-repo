@@ -1,0 +1,10 @@
+Name: Jeevan Shrestha, Age: 21, Address: Buspark
+Name: Jeevan, Age: 21, Address: Gongabu
+Name: Jeevan, Age: 21, Address: Samakoshi
+[2.56, 4.67, 18.98, 2.26, 2.86, 1.12, 1.41, 2.75, 11.42, 1.69, 1.9, 3.21, 2.59, 1.24, 1.15, 4.04]
+2.76
+7.0
+2.38 1.412.46,   12.23,   1.52,
+Name:neha shrestha Introduction: ok baby
+Name:Jeevan Shrestha a Introduction: i am a coder 
+Name:Jeevan Shrestha Introduction: I am a boy
